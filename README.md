@@ -1,5 +1,5 @@
 # Qt_Mysql_practice
-experience sharing
+基于qt5和Mysql实现的库存管理数据库
 
 qt学习，在借鉴网上一些方案后，用纯代码的方式实现布局
 
