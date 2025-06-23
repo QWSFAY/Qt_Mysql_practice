@@ -17,7 +17,7 @@ qt学习，在借鉴网上一些方案后，用纯代码的方式实现布局
 
 2.在ODBC数据源中进行设置
 
- ![]([D:\Github\Qt_Mysql_practice_clean\img\1.png](https://github.com/QWSFAY/Qt_Mysql_practice/blob/main/img/1.png))
+ ![]([https://github.com/QWSFAY/Qt_Mysql_practice/blob/main/img/1.png))
 
 ![](D:\Github\Qt_Mysql_practice_clean\img\2.png)
 
