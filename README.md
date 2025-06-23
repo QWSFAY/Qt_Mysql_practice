@@ -17,13 +17,13 @@ qt学习，在借鉴网上一些方案后，用纯代码的方式实现布局
 
 2.在ODBC数据源中进行设置
 
-![](D:\Github\Qt_Mysql_practice\img\1.png)
+ ![](D:\Github\Qt_Mysql_practice_clean\img\1.png)
 
-![](D:\Github\Qt_Mysql_practice\img\2.png)
+![](D:\Github\Qt_Mysql_practice_clean\img\2.png)
 
-![](D:\Github\Qt_Mysql_practice\img\3.png)
+![](D:\Github\Qt_Mysql_practice_clean\img\3.png)
 
-![](D:\Github\Qt_Mysql_practice\img\4.png)
+![](D:\Github\Qt_Mysql_practice_clean\img\4.png)
 
 最后这Character Set选gbk很重要,不然之后运行可能会出现中文乱码。Database没东西可能是你的User 或者 Password输错了.
 
@@ -33,8 +33,8 @@ qt学习，在借鉴网上一些方案后，用纯代码的方式实现布局
 
 ### 运行效果图
 
-![](D:\Github\Qt_Mysql_practice\img\5.png)
+![](D:\Github\Qt_Mysql_practice_clean\img\5.png)
 
-![](D:\Github\Qt_Mysql_practice\img\6.png)
+![](D:\Github\Qt_Mysql_practice_clean\img\6.png)
 
-![](D:\Github\Qt_Mysql_practice\img\7.png)
+![](D:\Github\Qt_Mysql_practice_clean\img\7.png)
