@@ -19,11 +19,11 @@ qt学习，在借鉴网上一些方案后，用纯代码的方式实现布局
 
  ![]([https://github.com/QWSFAY/Qt_Mysql_practice/blob/main/img/1.png?raw=true)
 
-![](D:\Github\Qt_Mysql_practice_clean\img\2.png)
+![](https://github.com/QWSFAY/Qt_Mysql_practice/blob/main/img/2.png?raw=true)
 
-![](D:\Github\Qt_Mysql_practice_clean\img\3.png)
+![](https://github.com/QWSFAY/Qt_Mysql_practice/blob/main/img/3.png?raw=true)
 
-![](D:\Github\Qt_Mysql_practice_clean\img\4.png)
+![](https://github.com/QWSFAY/Qt_Mysql_practice/blob/main/img/4.png?raw=true)
 
 最后这Character Set选gbk很重要,不然之后运行可能会出现中文乱码。Database没东西可能是你的User 或者 Password输错了.
 
