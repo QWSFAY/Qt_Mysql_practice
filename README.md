@@ -33,8 +33,8 @@ qt学习，在借鉴网上一些方案后，用纯代码的方式实现布局
 
 ### 运行效果图
 
-![](D:\Github\Qt_Mysql_practice_clean\img\5.png)
+![](https://github.com/QWSFAY/Qt_Mysql_practice/blob/main/img/5.png?raw=true)
 
-![](D:\Github\Qt_Mysql_practice_clean\img\6.png)
+![](https://github.com/QWSFAY/Qt_Mysql_practice/blob/main/img/6.png?raw=true)
 
-![](D:\Github\Qt_Mysql_practice_clean\img\7.png)
+![](https://github.com/QWSFAY/Qt_Mysql_practice/blob/main/img/7.png?raw=true)
